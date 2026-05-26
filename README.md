@@ -6,41 +6,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 
----
 
-## 👨‍💻 About Me
-
-**Youssef Emad Samouel**
-AI & Machine Learning Engineer | Computer Science Student — AI Department
-
-I'm a Computer Science student at Benha University (GPA 3.7/4.0) specializing in Artificial Intelligence, with hands-on experience building and deploying ML and NLP systems. I've completed 330+ hours of advanced AI training through NVIDIA DLI, NTI, and ITI, and delivered 5+ real-world projects across NLP, Computer Vision, and ML.
-
-Currently interning at **DecodeLabs** as an AI/ML Engineer, where I develop and benchmark ML models, preprocess large-scale datasets, and document reproducible research workflows.
-
-**🔧 Core Skills**
-- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face Transformers
-- **NLP:** spaCy, NLTK, TF-IDF, Text Classification, Sentiment Analysis, NER
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Dev Tools:** Git, GitHub, Streamlit, Gradio, Google Colab
-
-**🏆 Highlights**
-- 93%+ accuracy on Plant Disease Detection (CNN, 30,000+ images)
-- 88%+ accuracy on IMDB Sentiment Analysis (50,000 reviews, live Gradio demo)
-- ACO path-planning algorithm outperformed alternatives by 25% across 10+ environments
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef--emad1312-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/youssef-emad1312)
-[![GitHub](https://img.shields.io/badge/GitHub-youssefemad131-181717?style=flat&logo=github)](https://github.com/youssefemad131)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C47FF?style=flat&logo=vercel)](https://youssef-emad-portfolio.lovable.app)
-
----
-
-## 📌 About This Repository
-
-This repository documents my journey through the **DecodeLabs AI Engineering Internship — Batch 2026**. Each project is a hands-on milestone that builds on the last — starting from pure logic and control flow, progressing through supervised learning, and into intelligent recommendation systems.
-
-> *"The absolute best way to master Artificial Intelligence is through hands-on practice, not just theory."* — DecodeLabs
-
----
 
 ## 🗂️ Repository Structure
 
@@ -139,12 +105,46 @@ Exact key → value                 Feature vector → class            Skill ve
 | Regex (`re`) | Project 3 |
 
 ---
+---
 
+## 👨‍💻 About Me
+
+**Youssef Emad Samouel**
+AI & Machine Learning Engineer | Computer Science Student — AI Department
+
+I'm a Computer Science student at Benha University (GPA 3.7/4.0) specializing in Artificial Intelligence, with hands-on experience building and deploying ML and NLP systems. I've completed 330+ hours of advanced AI training through NVIDIA DLI, NTI, and ITI, and delivered 5+ real-world projects across NLP, Computer Vision, and ML.
+
+Currently interning at **DecodeLabs** as an AI/ML Engineer, where I develop and benchmark ML models, preprocess large-scale datasets, and document reproducible research workflows.
+
+**🔧 Core Skills**
+- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face Transformers
+- **NLP:** spaCy, NLTK, TF-IDF, Text Classification, Sentiment Analysis, NER
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **Dev Tools:** Git, GitHub, Streamlit, Gradio, Google Colab
+
+**🏆 Highlights**
+- 93%+ accuracy on Plant Disease Detection (CNN, 30,000+ images)
+- 88%+ accuracy on IMDB Sentiment Analysis (50,000 reviews, live Gradio demo)
+- ACO path-planning algorithm outperformed alternatives by 25% across 10+ environments
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef--emad1312-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/youssef-emad1312)
+[![GitHub](https://img.shields.io/badge/GitHub-youssefemad131-181717?style=flat&logo=github)](https://github.com/youssefemad131)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C47FF?style=flat&logo=vercel)](https://youssef-emad-portfolio.lovable.app)
+
+---
+
+## 📌 About This Repository
+
+This repository documents my journey through the **DecodeLabs AI Engineering Internship — Batch 2026**. Each project is a hands-on milestone that builds on the last — starting from pure logic and control flow, progressing through supervised learning, and into intelligent recommendation systems.
+
+> *"The absolute best way to master Artificial Intelligence is through hands-on practice, not just theory."* — DecodeLabs
+
+---
 ## 🏢 About DecodeLabs
 
 DecodeLabs is an industrial training organization based in Greater Lucknow, India, focused on building real-world AI engineering skills through hands-on project-based learning.
 
-📞 +91 89330 06408 | ✉️ decodelabs.tech@gmail.com | 🌐 [www.decodelabs.tech](http://www.decodelabs.tech)
+ ✉️ decodelabs.tech@gmail.com | 🌐 [www.decodelabs.tech](http://www.decodelabs.tech)
 
 ---
 
